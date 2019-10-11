@@ -26,72 +26,72 @@
     <orderEntry type="jdk" jdkName="RVM: ruby-2.3.3 [global]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="actionmailer (vbundled(4.2.7.1)) [path][gem]">
+      <library name="actionmailer (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionmailer-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionmailer-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionmailer-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionmailer-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="actionpack (vbundled(4.2.7.1)) [path][gem]">
+      <library name="actionpack (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionpack-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionpack-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionpack-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionpack-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="actionview (vbundled(4.2.7.1)) [path][gem]">
+      <library name="actionview (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionview-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionview-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionview-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/actionview-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="activejob (vbundled(4.2.7.1)) [path][gem]">
+      <library name="activejob (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activejob-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activejob-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activejob-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activejob-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="activemodel (vbundled(4.2.7.1)) [path][gem]">
+      <library name="activemodel (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activemodel-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activemodel-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activemodel-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activemodel-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="activerecord (vbundled(4.2.7.1)) [path][gem]">
+      <library name="activerecord (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activerecord-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activerecord-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activerecord-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activerecord-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="activesupport (vbundled(4.2.7.1)) [path][gem]">
+      <library name="activesupport (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activesupport-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activesupport-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activesupport-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/activesupport-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -640,14 +640,14 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="railties (vbundled(4.2.7.1)) [path][gem]">
+      <library name="railties (vbundled(4.2.0)) [path][gem]">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.7.1/bin" />
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.0/lib" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.7.1/bin" />
-          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.7.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/cache/ruby/2.3.0/gems/railties-4.2.0/lib" />
         </SOURCES>
       </library>
     </orderEntry>
