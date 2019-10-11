@@ -11,7 +11,10 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/help.html.erb" timestamp="1570780719390" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1570782019886">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/help.html.erb" timestamp="1570782827376" />
       <file name="$USER_HOME$/Ruby/project/hello_app_rubymine/app/controllers/application_controller.rb" timestamp="1570387552885">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="25" />
@@ -32,10 +35,19 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/about.html.erb" timestamp="1570782839846">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1570782355841">
+        <mark key="[" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/hello_app_rubymine/config/routes.rb" timestamp="1570385133406">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1570782677364">
+        <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
