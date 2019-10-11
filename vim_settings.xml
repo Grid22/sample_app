@@ -11,8 +11,8 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1570787760307">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/hello_app_rubymine/app/controllers/application_controller.rb" timestamp="1570387552885">
         <mark key="[" line="14" column="23" />
@@ -28,13 +28,13 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/Gemfile" timestamp="1570773917587" />
-      <file name="$USER_HOME$/Ruby/project/demo/Gemfile" timestamp="1570084536482">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
+        <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1570815577557">
+      <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
+        <mark key="[" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1570816963297">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
@@ -44,8 +44,8 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1570782677364">
-        <mark key="[" line="5" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1570817084400">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
