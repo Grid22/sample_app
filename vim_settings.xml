@@ -14,7 +14,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1570787760307">
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/help.html.erb" timestamp="1570782827376" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/help.html.erb" timestamp="1570813083793" />
       <file name="$USER_HOME$/Ruby/project/hello_app_rubymine/app/controllers/application_controller.rb" timestamp="1570387552885">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="25" />
@@ -28,14 +28,16 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/Gemfile" timestamp="1570773917587" />
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1570780700617" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1570813571294">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/demo/Gemfile" timestamp="1570084536482">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/about.html.erb" timestamp="1570782839846">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/about.html.erb" timestamp="1570813141318">
         <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1570782355841">
@@ -67,7 +69,7 @@
         <text encoding="base64">IyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgVW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgojIGdlbSAndW5pY29ybicKCiMgVXNlIENhcGlzdHJhbm8gZm9yIGRlcGxveW1lbnQKIyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c291cmNlICdodHRwczovL3J1YnlnZW1zLm9yZycKCmdlbSAncmFpbHMnLCAJCSc0LjIuNy4xJwpnZW0gJ3Nhc3MtcmFpbHMnLAknNS4wLjEnCmdlbSAndWdsaWZpZXInLCAJCScyLjUuMycKZ2VtICdjb2ZmZWUtcmFpbHMnLCAgJzQuMS4wJwpnZW0gJ2pxdWVyeS1yYWlscycsICAnNC4wLjMnCmdlbSAndHVyYm9saW5rcycsIAknMi4zLjAnCmdlbSAnamJ1aWxkZXInLCAJCScyLjIuMycKZ2VtICdzZG9jJywgCQkJJzAuNC4wJywgZ3JvdXA6IDpkb2MKCmdyb3VwIDpkZXZlbG9wbWVudCwgOnRlc3QgZG8KICBnZW0gJ3NxbGl0ZTMnLCAJJzEuMy45JwogIGdlbSAnYnllYnVnJywJCSczLjQuMCcKICBnZW0gJ3dlYi1jb25zb2xlJywgJzIuMC4wYmV0YTMnCiAgZ2VtICdzcHJpbmcnLAkJJzEuMS4zJwplbmQK</text>
@@ -76,7 +78,7 @@
         <text encoding="base64">CiMgQnVuZGxlIGVkZ2UgUmFpbHMgaW5zdGVhZDogZ2VtICdyYWlscycsIGdpdGh1YjogJ3JhaWxzL3JhaWxzJwpnZW0gJ3JhaWxzJywgJzQuMi43LjEnCiMgVXNlIHNxbGl0ZTMgYXMgdGhlIGRhdGFiYXNlIGZvciBBY3RpdmUgUmVjb3JkCmdlbSAnc3FsaXRlMycKIyBVc2UgU0NTUyBmb3Igc3R5bGVzaGVldHMKZ2VtICdzYXNzLXJhaWxzJywgJ34+IDUuMCcKIyBVc2UgVWdsaWZpZXIgYXMgY29tcHJlc3NvciBmb3IgSmF2YVNjcmlwdCBhc3NldHMKZ2VtICd1Z2xpZmllcicsICc+PSAxLjMuMCcKIyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MKZ2VtICdjb2ZmZWUtcmFpbHMnLCAnfj4gNC4xLjAnCiMgU2VlIGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9leGVjanMjcmVhZG1lIGZvciBtb3JlIHN1cHBvcnRlZCBydW50aW1lcwojIGdlbSAndGhlcnVieXJhY2VyJywgcGxhdGZvcm1zOiA6cnVieQoKIyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkKZ2VtICdqcXVlcnktcmFpbHMnCiMgVHVyYm9saW5rcyBtYWtlcyBmb2xsb3dpbmcgbGlua3MgaW4geW91ciB3ZWIgYXBwbGljYXRpb24gZmFzdGVyLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy90dXJib2xpbmtzCmdlbSAndHVyYm9saW5rcycKIyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgpnZW0gJ2pidWlsZGVyJywgJ34+IDIuMCcKIyBidW5kbGUgZXhlYyByYWtlIGRvYzpyYWlscyBnZW5lcmF0ZXMgdGhlIEFQSSB1bmRlciBkb2MvYXBpLgpnZW0gJ3Nkb2MnLCAnfj4gMC40LjAnLCBncm91cDogOmRvYwoKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgVW5pY29ybiBhcyB0aGUgYXBwIHNlcnZlcgojIGdlbSAndW5pY29ybicKCiMgVXNlIENhcGlzdHJhbm8gZm9yIGRlcGxveW1lbnQKIyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cgpncm91cCA6ZGV2ZWxvcG1lbnQsIDp0ZXN0IGRvCiAgIyBDYWxsICdieWVidWcnIGFueXdoZXJlIGluIHRoZSBjb2RlIHRvIHN0b3AgZXhlY3V0aW9uIGFuZCBnZXQgYSBkZWJ1Z2dlciBjb25zb2xlCiAgZ2VtICdieWVidWcnCmVuZAoKZ3JvdXAgOmRldmVsb3BtZW50IGRvCiAgIyBBY2Nlc3MgYW4gSVJCIGNvbnNvbGUgb24gZXhjZXB0aW9uIHBhZ2VzIG9yIGJ5IHVzaW5nIDwlPSBjb25zb2xlICU+IGluIHZpZXdzCiAgZ2VtICd3ZWItY29uc29sZScsICd+PiAyLjAnCgogICMgU3ByaW5nIHNwZWVkcyB1cCBkZXZlbG9wbWVudCBieSBrZWVwaW5nIHlvdXIgYXBwbGljYXRpb24gcnVubmluZyBpbiB0aGUgYmFja2dyb3VuZC4gUmVhZCBtb3JlOiBodHRwczovL2dpdGh1Yi5jb20vcmFpbHMvc3ByaW5nCiAgZ2VtICdzcHJpbmcnCmVuZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
