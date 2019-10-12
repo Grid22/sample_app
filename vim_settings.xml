@@ -11,8 +11,12 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1570902645180" />
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/application_helper.rb" timestamp="1570902283792">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Ruby/project/hello_app_rubymine/app/controllers/application_controller.rb" timestamp="1570387552885">
         <mark key="[" line="14" column="23" />
@@ -21,7 +25,7 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1570814653712" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1570902381448" />
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
