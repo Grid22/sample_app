@@ -11,7 +11,6 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1570902645180" />
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
         <mark key="[" line="5" column="0" />
       </file>
@@ -25,16 +24,15 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1570902381448" />
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/toy_app/Gemfile" timestamp="1570773917587" />
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/example_user.rb" timestamp="1571748889644" />
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
