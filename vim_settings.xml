@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571749720968">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/example_user.rb" timestamp="1571748889644" />
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
