@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1570286228139">
+      <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1570774532480">
@@ -39,7 +39,7 @@
         <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571757076556">
-        <mark key="[" line="9" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/example_user.rb" timestamp="1571748889644" />
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
