@@ -22,6 +22,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/application_helper.rb" timestamp="1570902283792">
         <mark key="[" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1571826564975">
+        <mark key="[" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
@@ -44,8 +47,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1570816963297">
-        <mark key="[" line="1" column="2" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1571826791602">
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
@@ -54,7 +56,7 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1570817084400">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1571826891476">
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
