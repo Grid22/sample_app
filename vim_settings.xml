@@ -44,6 +44,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571757076556">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_footer.html.erb" timestamp="1571827941059">
+        <mark key="[" line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
@@ -61,6 +64,9 @@
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
         <mark key="[" line="4" column="72" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1571827869059">
+        <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
