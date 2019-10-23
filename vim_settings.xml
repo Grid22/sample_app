@@ -6,13 +6,15 @@
       <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1571775912595">
-        <mark key="[" line="12" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1571825695970">
+        <mark key="[" line="12" column="28" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1571776780300">
-        <mark key="[" line="1" column="19" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1571825375806">
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="10" />
+        <mark key="." line="69" column="10" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
         <mark key="[" line="5" column="0" />
@@ -39,7 +41,6 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571757076556">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/example_user.rb" timestamp="1571748889644" />
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
@@ -55,6 +56,9 @@
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1570817084400">
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
+        <mark key="[" line="4" column="72" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
@@ -74,7 +78,7 @@
         <text encoding="base64">CiAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICA8JT0geWllbGQgJT4KICA8L2Rpdj4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICA8JT0geWllbGQgJT4KICA8L2Rpdj4=</text>
+        <text>#</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">PCU9IGxpbmtfdG8gInNhbXBsZSBhcHAiLCAnIycsIGlkOiAibG9nbyIgJT4KICAgICAgPG5hdj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIb21lIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIZWxwIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJMb2cgaW4iLCAnIycgJT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9uYXY+</text>
@@ -101,7 +105,7 @@
         <text encoding="base64">c291cmNlICdodHRwczovL3J1YnlnZW1zLm9yZycKCmdlbSAncmFpbHMnLCAJCSc0LjIuNy4xJwpnZW0gJ3Nhc3MtcmFpbHMnLAknNS4wLjEnCmdlbSAndWdsaWZpZXInLCAJCScyLjUuMycKZ2VtICdjb2ZmZWUtcmFpbHMnLCAgJzQuMS4wJwpnZW0gJ2pxdWVyeS1yYWlscycsICAnNC4wLjMnCmdlbSAndHVyYm9saW5rcycsIAknMi4zLjAnCmdlbSAnamJ1aWxkZXInLCAJCScyLjIuMycKZ2VtICdzZG9jJywgCQkJJzAuNC4wJywgZ3JvdXA6IDpkb2MKCmdyb3VwIDpkZXZlbG9wbWVudCwgOnRlc3QgZG8KICBnZW0gJ3NxbGl0ZTMnLCAJJzEuMy45JwogIGdlbSAnYnllYnVnJywJCSczLjQuMCcKICBnZW0gJ3dlYi1jb25zb2xlJywgJzIuMC4wYmV0YTMnCiAgZ2VtICdzcHJpbmcnLAkJJzEuMS4zJwplbmQK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>#</text>
       </register>
     </registers>
     <search>
