@@ -3,32 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
-        <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/new.html.erb" timestamp="1571843382349" />
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1571777966778">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
-        <mark key="[" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1571826891476">
-        <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
-        <mark key="[" line="4" column="72" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1571827869059">
-        <mark key="[" line="2" column="32" />
-      </file>
       <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +16,9 @@
         <mark key="]" line="69" column="10" />
         <mark key="." line="69" column="10" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/application_helper.rb" timestamp="1570902283792">
         <mark key="[" line="0" column="23" />
       </file>
@@ -51,11 +28,24 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1571903828539">
-        <mark key="[" line="7" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1571777966778">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1571904077965">
-        <mark key="[" line="0" column="30" />
+      <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
+        <mark key="[" line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1572281516063">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1572281677136">
+        <mark key="[" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571843315149">
         <mark key="[" line="7" column="32" />
@@ -80,6 +70,15 @@
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1571826891476">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
+        <mark key="[" line="4" column="72" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1571827869059">
+        <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
