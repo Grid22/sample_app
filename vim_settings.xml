@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/new.html.erb" timestamp="1572632746583">
+        <mark key="[" line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1572283386848">
         <mark key="[" line="0" column="68" />
         <mark key="]" line="2" column="0" />
@@ -81,7 +84,7 @@
         <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1572545974611">
-        <mark key="[" line="6" column="4" />
+        <mark key="[" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191028171906_add_index_to_users_email.rb" timestamp="1572283188494">
         <mark key="[" line="1" column="11" />
