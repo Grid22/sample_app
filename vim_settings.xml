@@ -44,7 +44,6 @@
       <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/show.html.erb" timestamp="1572546933261" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1572546558169">
         <mark key="[" line="7" column="2" />
       </file>
@@ -85,7 +84,7 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1572545974611">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1572886084950">
         <mark key="[" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191028171906_add_index_to_users_email.rb" timestamp="1572283188494">
