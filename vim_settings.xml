@@ -17,10 +17,13 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/shared/_error_ messages.html.erb" timestamp="1573229193606" />
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1572466623359">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/shared/_error_messages.html.erb" timestamp="1573234684656">
+        <mark key="[" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1573235787979">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="19" column="2" />
+        <mark key="." line="19" column="2" />
       </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
         <mark key="[" line="2" column="1" />
@@ -53,11 +56,7 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1573228583413">
-        <mark key="[" line="144" column="2" />
-        <mark key="]" line="76" column="10" />
-        <mark key="." line="76" column="10" />
-      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1573234665785" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/application_helper.rb" timestamp="1570902283792">
         <mark key="[" line="0" column="23" />
       </file>
@@ -85,9 +84,10 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1572886084950">
-        <mark key="[" line="7" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1573235347687">
+        <mark key="[" line="12" column="38" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573234979347" />
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191028171906_add_index_to_users_email.rb" timestamp="1572283188494">
         <mark key="[" line="1" column="11" />
       </file>
@@ -126,7 +126,7 @@
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>\n&quot;</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
@@ -155,7 +155,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>\n&quot;</text>
+        <text />
       </register>
     </registers>
     <search>
