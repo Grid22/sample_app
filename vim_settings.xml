@@ -51,8 +51,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1572546558169">
         <mark key="[" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1572285982809">
-        <mark key="[" line="13" column="28" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1573315877724">
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
@@ -62,6 +62,11 @@
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1571826564975">
         <mark key="[" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="46" column="2" />
       </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
@@ -84,10 +89,15 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/puma.rb" timestamp="1573316227152">
+        <mark key="[" line="8" column="43" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1573235347687">
         <mark key="[" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573234979347" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573314826739">
+        <mark key="[" line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191028171906_add_index_to_users_email.rb" timestamp="1572283188494">
         <mark key="[" line="1" column="11" />
       </file>
