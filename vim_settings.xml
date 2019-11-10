@@ -16,7 +16,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/shared/_error_ messages.html.erb" timestamp="1573229193606" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/shared/_error_messages.html.erb" timestamp="1573234684656">
         <mark key="[" line="1" column="30" />
       </file>
@@ -56,7 +55,6 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1573234665785" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/application_helper.rb" timestamp="1570902283792">
         <mark key="[" line="0" column="23" />
       </file>
@@ -107,8 +105,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1572545596687">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1573390995011">
+        <mark key="[" line="10" column="30" />
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
