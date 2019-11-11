@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1573478613915">
+        <mark key="[" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
         <mark key="[" line="5" column="0" />
       </file>
