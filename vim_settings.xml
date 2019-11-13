@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/javascripts/application.js" timestamp="1573662205167">
+        <mark key="[" line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/new.html.erb" timestamp="1573227938676">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="16" column="58" />
@@ -45,8 +48,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
         <mark key="[" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1571827869059">
-        <mark key="[" line="2" column="32" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1573661641530">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="/dummy.sql" timestamp="1572287386320">
         <mark key="[" line="0" column="0" />
@@ -147,7 +152,7 @@
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">PGxpPjwlPSBsaW5rX3RvICJMb2cgaW4iLCAnIycgJT48L2xpPg==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
@@ -176,7 +181,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PGxpPjwlPSBsaW5rX3RvICJMb2cgaW4iLCAnIycgJT48L2xpPg==</text>
       </register>
     </registers>
     <search>
