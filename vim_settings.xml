@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1573478613915">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1570817931464">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1573667166317">
+        <mark key="[" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/javascripts/application.js" timestamp="1573662205167">
         <mark key="[" line="13" column="21" />
@@ -17,8 +17,8 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1573664826937">
-        <mark key="[" line="0" column="68" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1573667532625">
+        <mark key="[" line="3" column="7" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
