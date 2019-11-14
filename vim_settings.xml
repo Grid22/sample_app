@@ -43,7 +43,9 @@
         <mark key="[" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/vendor/cache/ruby/2.3.0/gems/minitest-5.12.2/lib/minitest/test.rb" timestamp="1573664222315" />
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1573392598319" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1573723391982">
+        <mark key="[" line="8" column="63" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1571826891476">
         <mark key="[" line="9" column="0" />
       </file>
@@ -78,7 +80,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1571826564975">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573716762638">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573722666563">
         <mark key="[" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
@@ -89,8 +91,8 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1572286666417">
-        <mark key="[" line="3" column="68" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1573723066427">
+        <mark key="[" line="54" column="4" />
         <mark key="]" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
