@@ -91,11 +91,11 @@
         <mark key="]" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1573663082055">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="44" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1573717853689">
+        <mark key="'" line="8" column="43" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571843315149">
         <mark key="[" line="7" column="32" />
