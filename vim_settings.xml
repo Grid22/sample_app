@@ -80,8 +80,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1571826564975">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573722666563">
-        <mark key="[" line="23" column="19" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573822388631">
+        <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
         <mark key="[" line="46" column="2" />
