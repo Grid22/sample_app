@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1573726167306">
-        <mark key="[" line="8" column="16" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1573912418173">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/test_helper.rb" timestamp="1573726614668">
         <mark key="[" line="14" column="0" />
@@ -80,7 +82,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/static_pages_controller_test.rb" timestamp="1571826564975">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573822388631">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573912606377">
         <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
@@ -158,7 +160,7 @@
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">ICAgcGFyYW1zWzpzZXNzaW9uXVs6cmVtZW1iZXJfbWVdID09ICcxJyA/IHJlbWVtYmVyKHVzZXIpIDogZm9yZ2V0KHVzZXIp</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
@@ -187,7 +189,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ICAgcGFyYW1zWzpzZXNzaW9uXVs6cmVtZW1iZXJfbWVdID09ICcxJyA/IHJlbWVtYmVyKHVzZXIpIDogZm9yZ2V0KHVzZXIp</text>
       </register>
     </registers>
     <search>
