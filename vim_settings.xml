@@ -87,6 +87,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_login_test.rb" timestamp="1573912606377">
         <mark key="[" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/edit.html.erb" timestamp="1574008199948">
+        <mark key="[" line="25" column="68" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
         <mark key="[" line="46" column="2" />
         <mark key="]" line="46" column="2" />
@@ -122,8 +125,8 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1573665344253">
-        <mark key="[" line="11" column="16" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574008044746">
+        <mark key="[" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573715638387">
         <mark key="[" line="22" column="31" />
