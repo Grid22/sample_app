@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1573912418173">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1574069607131">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
@@ -19,22 +19,24 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1573667532625">
-        <mark key="[" line="3" column="7" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1574068284475">
+        <mark key="[" line="9" column="6" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574062001067">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574069041208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/shared/_error_messages.html.erb" timestamp="1573234684656">
         <mark key="[" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/lib/tasks/fixtures.rake" timestamp="1573664405691" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/application.html.erb" timestamp="1573235787979">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/users_controller_test.rb" timestamp="1574069780793">
+        <mark key="[" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
         <mark key="[" line="2" column="1" />
@@ -44,12 +46,11 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/sessions_helper.rb" timestamp="1573913994206">
-        <mark key="[" line="18" column="6" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/sessions_helper.rb" timestamp="1574068688655">
+        <mark key="[" line="24" column="4" />
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/vendor/cache/ruby/2.3.0/gems/minitest-5.12.2/lib/minitest/test.rb" timestamp="1573664222315" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1573723391982">
         <mark key="[" line="8" column="63" />
       </file>
@@ -59,7 +60,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
         <mark key="[" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1574009034521">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_header.html.erb" timestamp="1574070710550">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
@@ -70,13 +71,19 @@
       <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1572546558169">
-        <mark key="[" line="7" column="2" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1574070453216">
+        <mark key="[" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1573315877724">
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/index.html.erb" timestamp="1574070904868">
+        <mark key="[" line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
+        <mark key="[" line="22" column="26" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1574070553361">
+        <mark key="[" line="171" column="2" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/application_controller.rb" timestamp="1573480396030">
         <mark key="[" line="3" column="38" />
@@ -128,8 +135,10 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574008044746">
-        <mark key="[" line="19" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574068874540">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573715638387">
         <mark key="[" line="22" column="31" />
@@ -173,7 +182,7 @@
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>raise # Если тест выполнится успешно, значит, эта ветвь не охвачена тестированием.</text>
+        <text># @user = User.find(params[:id])</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
@@ -202,7 +211,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>raise # Если тест выполнится успешно, значит, эта ветвь не охвачена тестированием.</text>
+        <text># @user = User.find(params[:id])</text>
       </register>
     </registers>
     <search>
