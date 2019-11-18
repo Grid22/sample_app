@@ -19,8 +19,8 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1574073029559">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1574088668905">
+        <mark key="[" line="6" column="46" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -35,8 +35,8 @@
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/users_controller_test.rb" timestamp="1574069780793">
-        <mark key="[" line="14" column="2" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/users_controller_test.rb" timestamp="1574088796667">
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/micropost.rb" timestamp="1570701615411">
         <mark key="[" line="2" column="1" />
@@ -50,6 +50,9 @@
         <mark key="[" line="24" column="4" />
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191118143035_add_admin_to_users.rb" timestamp="1574087578544">
+        <mark key="[" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1573723391982">
         <mark key="[" line="8" column="63" />
@@ -74,10 +77,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1574070453216">
         <mark key="[" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/index.html.erb" timestamp="1574074024226">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/index.html.erb" timestamp="1574087451379">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
         <mark key="[" line="25" column="26" />
@@ -110,8 +113,8 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574073961361">
-        <mark key="[" line="3" column="5" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574088224838">
+        <mark key="[" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1573723066427">
         <mark key="[" line="54" column="4" />
@@ -140,13 +143,13 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_index_test.rb" timestamp="1574073646152">
-        <mark key="[" line="5" column="6" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_index_test.rb" timestamp="1574089110542">
+        <mark key="[" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574068874540">
-        <mark key="[" line="29" column="3" />
-        <mark key="]" line="29" column="3" />
-        <mark key="." line="29" column="3" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574088408951">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573715638387">
         <mark key="[" line="22" column="31" />
@@ -170,6 +173,12 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/db/seeds.rb" timestamp="1574087806998">
+        <mark key="'" line="7" column="32" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -180,40 +189,41 @@
       <jump line="6" column="0" filename="$USER_HOME$/Ruby/project/demo/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Ruby/project/demo/Gemfile" />
       <jump line="7" column="43" filename="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" />
+      <jump line="7" column="32" filename="$USER_HOME$/Ruby/project/sample_app/db/seeds.rb" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>ay,</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PCUgcHJvdmlkZSg6dGl0bGUsICdBbGwgdXNlcnMnKSAlPgo8aDE+QWxsIHVzZXJzPC9oMT4KCjwlPSB3aWxsX3BhZ2luYXRlICU+Cgo8dWwgY2xhc3M9InVzZXJzIj4KICA8JT0gcmVuZGVyIEB1c2VycyAlPgo8L3VsPgoKPCU9IHdpbGxfcGFnaW5hdGUgJT4=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCUgcHJvdmlkZSg6dGl0bGUsICdBbGwgdXNlcnMnKSAlPgo8aDE+QWxsIHVzZXJzPC9oMT4KCjwlPSB3aWxsX3BhZ2luYXRlICU+Cgo8dWwgY2xhc3M9InVzZXJzIj4KICA8JT0gcmVuZGVyIEB1c2VycyAlPgo8L3VsPgoKPCU9IHdpbGxfcGFnaW5hdGUgJT4=</text>
+      </register>
+      <register name="2" type="4">
         <text>, password: &quot;foobar&quot;,
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text># test &quot;the truth&quot; do
   #   assert true
   # end</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICA8JT0geWllbGQgJT4KICA8L2Rpdj4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PCU9IGxpbmtfdG8gInNhbXBsZSBhcHAiLCAnIycsIGlkOiAibG9nbyIgJT4KICAgICAgPG5hdj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIb21lIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIZWxwIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJMb2cgaW4iLCAnIycgJT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9uYXY+</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PCEtLVtpZiBsdCBJRSA5XT4KICA8c2NyaXB0IHNyYz0iLy9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvaHRtbDVzaGl2L3IyOS9odG1sNS5taW4uanMiPgogIDwvc2NyaXB0PgogIDwhW2VuZGlmXS0tPg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBUaGUgcHJpb3JpdHkgaXMgYmFzZWQgdXBvbiBvcmRlciBvZiBjcmVhdGlvbjogZmlyc3QgY3JlYXRlZCAtPiBoaWdoZXN0IHByaW9yaXR5LgogICMgU2VlIGhvdyBhbGwgeW91ciByb3V0ZXMgbGF5IG91dCB3aXRoICJyYWtlIHJvdXRlcyIuCgogICMgWW91IGNhbiBoYXZlIHRoZSByb290IG9mIHlvdXIgc2l0ZSByb3V0ZWQgd2l0aCAicm9vdCIKICAjIHJvb3QgJ3dlbGNvbWUjaW5kZXgnCgogICMgRXhhbXBsZSBvZiByZWd1bGFyIHJvdXRlOgogICMgICBnZXQgJ3Byb2R1Y3RzLzppZCcgPT4gJ2NhdGFsb2cjdmlldycKCiAgIyBFeGFtcGxlIG9mIG5hbWVkIHJvdXRlIHRoYXQgY2FuIGJlIGludm9rZWQgd2l0aCBwdXJjaGFzZV91cmwoaWQ6IHByb2R1Y3QuaWQpCiAgIyAgIGdldCAncHJvZHVjdHMvOmlkL3B1cmNoYXNlJyA9PiAnY2F0YWxvZyNwdXJjaGFzZScsIGFzOiA6cHVyY2hhc2UKCiAgIyBFeGFtcGxlIHJlc291cmNlIHJvdXRlIChtYXBzIEhUVFAgdmVyYnMgdG8gY29udHJvbGxlciBhY3Rpb25zIGF1dG9tYXRpY2FsbHkpOgogICMgICByZXNvdXJjZXMgOnByb2R1Y3RzCgogICMgRXhhbXBsZSByZXNvdXJjZSByb3V0ZSB3aXRoIG9wdGlvbnM6CiAgIyAgIHJlc291cmNlcyA6cHJvZHVjdHMgZG8KICAjICAgICBtZW1iZXIgZG8KICAjICAgICAgIGdldCAnc2hvcnQnCiAgIyAgICAgICBwb3N0ICd0b2dnbGUnCiAgIyAgICAgZW5kCiAgIwogICMgICAgIGNvbGxlY3Rpb24gZG8KICAjICAgICAgIGdldCAnc29sZCcKICAjICAgICBlbmQKICAjICAgZW5kCgogICMgRXhhbXBsZSByZXNvdXJjZSByb3V0ZSB3aXRoIHN1Yi1yZXNvdXJjZXM6CiAgIyAgIHJlc291cmNlcyA6cHJvZHVjdHMgZG8KICAjICAgICByZXNvdXJjZXMgOmNvbW1lbnRzLCA6c2FsZXMKICAjICAgICByZXNvdXJjZSA6c2VsbGVyCiAgIyAgIGVuZAoKICAjIEV4YW1wbGUgcmVzb3VyY2Ugcm91dGUgd2l0aCBtb3JlIGNvbXBsZXggc3ViLXJlc291cmNlczoKICAjICAgcmVzb3VyY2VzIDpwcm9kdWN0cyBkbwogICMgICAgIHJlc291cmNlcyA6Y29tbWVudHMKICAjICAgICByZXNvdXJjZXMgOnNhbGVzIGRvCiAgIyAgICAgICBnZXQgJ3JlY2VudCcsIG9uOiA6Y29sbGVjdGlvbgogICMgICAgIGVuZAogICMgICBlbmQKCiAgIyBFeGFtcGxlIHJlc291cmNlIHJvdXRlIHdpdGggY29uY2VybnM6CiAgIyAgIGNvbmNlcm4gOnRvZ2dsZWFibGUgZG8KICAjICAgICBwb3N0ICd0b2dnbGUnCiAgIyAgIGVuZAogICMgICByZXNvdXJjZXMgOnBvc3RzLCBjb25jZXJuczogOnRvZ2dsZWFibGUKICAjICAgcmVzb3VyY2VzIDpwaG90b3MsIGNvbmNlcm5zOiA6dG9nZ2xlYWJsZQoKICAjIEV4YW1wbGUgcmVzb3VyY2Ugcm91dGUgd2l0aGluIGEgbmFtZXNwYWNlOgogICMgICBuYW1lc3BhY2UgOmFkbWluIGRvCiAgIyAgICAgIyBEaXJlY3RzIC9hZG1pbi9wcm9kdWN0cy8qIHRvIEFkbWluOjpQcm9kdWN0c0NvbnRyb2xsZXIKICAjICAgICAjIChhcHAvY29udHJvbGxlcnMvYWRtaW4vcHJvZHVjdHNfY29udHJvbGxlci5yYikKICAjICAgICByZXNvdXJjZXMgOnByb2R1Y3RzCiAgIyAgIGVuZA==</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
+        <text encoding="base64">IyBUaGUgcHJpb3JpdHkgaXMgYmFzZWQgdXBvbiBvcmRlciBvZiBjcmVhdGlvbjogZmlyc3QgY3JlYXRlZCAtPiBoaWdoZXN0IHByaW9yaXR5LgogICMgU2VlIGhvdyBhbGwgeW91ciByb3V0ZXMgbGF5IG91dCB3aXRoICJyYWtlIHJvdXRlcyIuCgogICMgWW91IGNhbiBoYXZlIHRoZSByb290IG9mIHlvdXIgc2l0ZSByb3V0ZWQgd2l0aCAicm9vdCIKICAjIHJvb3QgJ3dlbGNvbWUjaW5kZXgnCgogICMgRXhhbXBsZSBvZiByZWd1bGFyIHJvdXRlOgogICMgICBnZXQgJ3Byb2R1Y3RzLzppZCcgPT4gJ2NhdGFsb2cjdmlldycKCiAgIyBFeGFtcGxlIG9mIG5hbWVkIHJvdXRlIHRoYXQgY2FuIGJlIGludm9rZWQgd2l0aCBwdXJjaGFzZV91cmwoaWQ6IHByb2R1Y3QuaWQpCiAgIyAgIGdldCAncHJvZHVjdHMvOmlkL3B1cmNoYXNlJyA9PiAnY2F0YWxvZyNwdXJjaGFzZScsIGFzOiA6cHVyY2hhc2UKCiAgIyBFeGFtcGxlIHJlc291cmNlIHJvdXRlIChtYXBzIEhUVFAgdmVyYnMgdG8gY29udHJvbGxlciBhY3Rpb25zIGF1dG9tYXRpY2FsbHkpOgogICMgICByZXNvdXJjZXMgOnByb2R1Y3RzCgogICMgRXhhbXBsZSByZXNvdXJjZSByb3V0ZSB3aXRoIG9wdGlvbnM6CiAgIyAgIHJlc291cmNlcyA6cHJvZHVjdHMgZG8KICAjICAgICBtZW1iZXIgZG8KICAjICAgICAgIGdldCAnc2hvcnQnCiAgIyAgICAgICBwb3N0ICd0b2dnbGUnCiAgIyAgICAgZW5kCiAgIwogICMgICAgIGNvbGxlY3Rpb24gZG8KICAjICAgICAgIGdldCAnc29sZCcKICAjICAgICBlbmQKICAjICAgZW5kCgogICMgRXhhbXBsZSByZXNvdXJjZSByb3V0ZSB3aXRoIHN1Yi1yZXNvdXJjZXM6CiAgIyAgIHJlc291cmNlcyA6cHJvZHVjdHMgZG8KICAjICAgICByZXNvdXJjZXMgOmNvbW1lbnRzLCA6c2FsZXMKICAjICAgICByZXNvdXJjZSA6c2VsbGVyCiAgIyAgIGVuZAoKICAjIEV4YW1wbGUgcmVzb3VyY2Ugcm91dGUgd2l0aCBtb3JlIGNvbXBsZXggc3ViLXJlc291cmNlczoKICAjICAgcmVzb3VyY2VzIDpwcm9kdWN0cyBkbwogICMgICAgIHJlc291cmNlcyA6Y29tbWVudHMKICAjICAgICByZXNvdXJjZXMgOnNhbGVzIGRvCiAgIyAgICAgICBnZXQgJ3JlY2VudCcsIG9uOiA6Y29sbGVjdGlvbgogICMgICAgIGVuZAogICMgICBlbmQKCiAgIyBFeGFtcGxlIHJlc291cmNlIHJvdXRlIHdpdGggY29uY2VybnM6CiAgIyAgIGNvbmNlcm4gOnRvZ2dsZWFibGUgZG8KICAjICAgICBwb3N0ICd0b2dnbGUnCiAgIyAgIGVuZAogICMgICByZXNvdXJjZXMgOnBvc3RzLCBjb25jZXJuczogOnRvZ2dsZWFibGUKICAjICAgcmVzb3VyY2VzIDpwaG90b3MsIGNvbmNlcm5zOiA6dG9nZ2xlYWJsZQoKICAjIEV4YW1wbGUgcmVzb3VyY2Ugcm91dGUgd2l0aGluIGEgbmFtZXNwYWNlOgogICMgICBuYW1lc3BhY2UgOmFkbWluIGRvCiAgIyAgICAgIyBEaXJlY3RzIC9hZG1pbi9wcm9kdWN0cy8qIHRvIEFkbWluOjpQcm9kdWN0c0NvbnRyb2xsZXIKICAjICAgICAjIChhcHAvY29udHJvbGxlcnMvYWRtaW4vcHJvZHVjdHNfY29udHJvbGxlci5yYikKICAjICAgICByZXNvdXJjZXMgOnByb2R1Y3RzCiAgIyAgIGVuZA==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
