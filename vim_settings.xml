@@ -74,8 +74,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1574070453216">
         <mark key="[" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/index.html.erb" timestamp="1574070904868">
-        <mark key="[" line="10" column="10" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/index.html.erb" timestamp="1574074024226">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
         <mark key="[" line="25" column="26" />
@@ -108,6 +110,9 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574073961361">
+        <mark key="[" line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1573723066427">
         <mark key="[" line="54" column="4" />
         <mark key="]" line="3" column="68" />
@@ -134,6 +139,9 @@
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_index_test.rb" timestamp="1574073646152">
+        <mark key="[" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574068874540">
         <mark key="[" line="29" column="3" />
@@ -182,7 +190,7 @@
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text># @user = User.find(params[:id])</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
@@ -211,7 +219,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KICA8dGl0bGU+PCU9IHlpZWxkKDp0aXRsZSkgJT4gfCBSdWJ5IG9uIFJhaWxzIFR1dG9yaWFsIFNhbXBsZSBBcHA8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
       </register>
       <register name="-" type="4">
-        <text># @user = User.find(params[:id])</text>
+        <text />
       </register>
     </registers>
     <search>
