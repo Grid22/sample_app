@@ -113,6 +113,9 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191124031754_add_activation_to_users.rb" timestamp="1574565530106">
+        <mark key="[" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574088224838">
         <mark key="[" line="2" column="31" />
       </file>
@@ -163,8 +166,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1573390995011">
-        <mark key="[" line="10" column="30" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1574565180941">
+        <mark key="[" line="14" column="17" />
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
