@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/sessions_helper.rb" timestamp="1574068688655">
-        <mark key="[" line="24" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/sessions_helper.rb" timestamp="1575623258166">
+        <mark key="[" line="19" column="6" />
         <mark key="]" line="18" column="6" />
         <mark key="." line="18" column="6" />
       </file>
@@ -62,8 +62,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574088224838">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1573723066427">
-        <mark key="[" line="54" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1575623347383">
+        <mark key="[" line="62" column="4" />
         <mark key="]" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
@@ -75,8 +75,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_index_test.rb" timestamp="1574089110542">
         <mark key="[" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1573715638387">
-        <mark key="[" line="22" column="31" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_signup_test.rb" timestamp="1575622620769">
+        <mark key="[" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/layouts/_footer.html.erb" timestamp="1571827941059">
         <mark key="[" line="7" column="31" />
@@ -94,7 +94,6 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/user_mailer/account_activation.text.erb" timestamp="1575365908941" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1574069607131">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="9" column="3" />
@@ -166,11 +165,11 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1574566350980">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1575623135157">
         <mark key="'" line="4" column="2" />
-        <mark key="[" line="48" column="6" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="48" column="6" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="6" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571843315149">
         <mark key="[" line="7" column="32" />
@@ -183,15 +182,14 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/config/puma.rb" timestamp="1573316227152">
         <mark key="[" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1574088408951">
-        <mark key="[" line="2" column="62" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1575622478304">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191028171906_add_index_to_users_email.rb" timestamp="1572283188494">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/user_mailer/account_activation.html.erb" timestamp="1575365987104" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/mailers/application_mailer.rb" timestamp="1575365624819">
         <mark key="[" line="1" column="17" />
       </file>
