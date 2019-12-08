@@ -157,6 +157,9 @@
         <mark key="]" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/account_activations_controller.rb" timestamp="1575797331101">
+        <mark key="[" line="0" column="57" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
         <mark key="[" line="46" column="2" />
         <mark key="]" line="46" column="2" />
