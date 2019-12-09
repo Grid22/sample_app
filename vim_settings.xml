@@ -91,6 +91,9 @@
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/new.html.erb" timestamp="1575909388458">
+        <mark key="[" line="7" column="57" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/hello_app_rubymine/config/routes.rb" timestamp="1570385133406">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
@@ -123,7 +126,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/mailers/previews/user_mailer_preview.rb" timestamp="1575366531107">
         <mark key="[" line="0" column="70" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1575800880213">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1575909342265">
         <mark key="[" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
@@ -162,6 +165,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/account_activations_controller.rb" timestamp="1575799131591">
         <mark key="[" line="0" column="57" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/password_resets_controller.rb" timestamp="1575909459825">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/production.rb" timestamp="1573315308040">
         <mark key="[" line="46" column="2" />
         <mark key="]" line="46" column="2" />
@@ -170,11 +176,11 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1575799785693">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1575909590098">
         <mark key="'" line="4" column="2" />
-        <mark key="[" line="57" column="2" />
-        <mark key="]" line="62" column="6" />
-        <mark key="." line="62" column="6" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="74" column="6" />
+        <mark key="." line="74" column="6" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571843315149">
         <mark key="[" line="7" column="32" />
