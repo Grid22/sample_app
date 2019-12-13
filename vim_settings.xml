@@ -22,6 +22,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574069041208">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/user_mailer/password_reset.html.erb" timestamp="1576252412794" />
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
       </file>
@@ -36,7 +37,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1571826891476">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/mailers/user_mailer.rb" timestamp="1575365696004">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/mailers/user_mailer.rb" timestamp="1576252309762">
         <mark key="[" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
@@ -123,11 +124,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/mailers/previews/user_mailer_preview.rb" timestamp="1575366531107">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/mailers/previews/user_mailer_preview.rb" timestamp="1576252533147">
         <mark key="[" line="0" column="70" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/sessions/new.html.erb" timestamp="1575909342265">
         <mark key="[" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/user_mailer/password_reset.text.erb" timestamp="1576252383497">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/application.css" timestamp="1571824418153">
         <mark key="[" line="4" column="72" />
@@ -157,8 +161,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/edit.html.erb" timestamp="1574008199948">
         <mark key="[" line="25" column="68" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/mailers/user_mailer_test.rb" timestamp="1575368425184">
-        <mark key="[" line="15" column="2" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/mailers/user_mailer_test.rb" timestamp="1576252724005">
+        <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
