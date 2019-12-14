@@ -72,8 +72,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574088224838">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1575623347383">
-        <mark key="[" line="62" column="4" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1576321291287">
+        <mark key="[" line="64" column="4" />
         <mark key="]" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
@@ -170,6 +170,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/show.html.erb" timestamp="1576321967231">
+        <mark key="[" line="9" column="9" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/application_controller.rb" timestamp="1573480396030">
         <mark key="[" line="3" column="38" />
       </file>
@@ -196,6 +199,9 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/edit.html.erb" timestamp="1576300379119" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/microposts/_micropost.html.erb" timestamp="1576321552249">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1576318142759">
         <mark key="'" line="5" column="2" />
         <mark key="[" line="0" column="30" />
@@ -213,10 +219,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/config/puma.rb" timestamp="1573316227152">
         <mark key="[" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1575799880094">
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/users_controller.rb" timestamp="1576321772356">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191028171906_add_index_to_users_email.rb" timestamp="1572283188494">
         <mark key="[" line="1" column="11" />
@@ -249,11 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># assert_template 'users/show'
-   # assert is_logged_</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
