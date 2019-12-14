@@ -22,6 +22,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574069041208">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1576304317184">
+        <mark key="[" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
       </file>
@@ -38,6 +41,9 @@
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/mailers/user_mailer.rb" timestamp="1576258907150">
         <mark key="[" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191214060620_create_microposts.rb" timestamp="1576304059708">
+        <mark key="[" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
         <mark key="[" line="25" column="26" />
@@ -148,6 +154,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/micropost.rb" timestamp="1576304228418">
+        <mark key="[" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/users_helper.rb" timestamp="1574070453216">
         <mark key="[" line="4" column="60" />
