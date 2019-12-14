@@ -255,7 +255,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICMgdGVzdCAidGhlIHRydXRoIiBkbwogICMgICBhc3NlcnQgdHJ1ZQogICMgZW5k</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -267,10 +267,13 @@
         <text>ay,</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICMgdGVzdCAidGhlIHRydXRoIiBkbwogICMgICBhc3NlcnQgdHJ1ZQogICMgZW5k</text>
+      </register>
+      <register name="2" type="4">
         <text># assert_template 'users/show'
    # assert is_logged_</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>test &quot;password_reset&quot; do
     mail = UserMailer.password_reset
     assert_equal &quot;Password reset&quot;, mail.subject
@@ -279,29 +282,26 @@
     assert_match &quot;Hi&quot;, mail.body.encoded
   end</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PCUgcHJvdmlkZSg6dGl0bGUsICdBbGwgdXNlcnMnKSAlPgo8aDE+QWxsIHVzZXJzPC9oMT4KCjwlPSB3aWxsX3BhZ2luYXRlICU+Cgo8dWwgY2xhc3M9InVzZXJzIj4KICA8JT0gcmVuZGVyIEB1c2VycyAlPgo8L3VsPgoKPCU9IHdpbGxfcGFnaW5hdGUgJT4=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>, password: &quot;foobar&quot;,
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text># test &quot;the truth&quot; do
   #   assert true
   # end</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICA8JT0geWllbGQgJT4KICA8L2Rpdj4=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCU9IGxpbmtfdG8gInNhbXBsZSBhcHAiLCAnIycsIGlkOiAibG9nbyIgJT4KICAgICAgPG5hdj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIb21lIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIZWxwIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJMb2cgaW4iLCAnIycgJT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9uYXY+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">PCEtLVtpZiBsdCBJRSA5XT4KICA8c2NyaXB0IHNyYz0iLy9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvaHRtbDVzaGl2L3IyOS9odG1sNS5taW4uanMiPgogIDwvc2NyaXB0PgogIDwhW2VuZGlmXS0tPg==</text>
+        <text encoding="base64">PCU9IGxpbmtfdG8gInNhbXBsZSBhcHAiLCAnIycsIGlkOiAibG9nbyIgJT4KICAgICAgPG5hdj4KICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIb21lIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJIZWxwIiwgJyMnICU+PC9saT4KICAgICAgICAgICAgPGxpPjwlPSBsaW5rX3RvICJMb2cgaW4iLCAnIycgJT48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9uYXY+</text>
       </register>
     </registers>
     <search>
