@@ -143,6 +143,9 @@
       <file name="/dummy.sql" timestamp="1575799097518">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/password_resets_test.rb" timestamp="1576301883994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1571774418504">
         <mark key="[" line="0" column="0" />
       </file>
@@ -180,11 +183,11 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/edit.html.erb" timestamp="1576300379119" />
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1575909590098">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1576301722352">
         <mark key="'" line="4" column="2" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="74" column="6" />
-        <mark key="." line="74" column="6" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="79" column="6" />
+        <mark key="." line="79" column="6" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571843315149">
         <mark key="[" line="7" column="32" />
