@@ -14,7 +14,7 @@
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1575367492236">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/users.yml" timestamp="1576326894286">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
@@ -26,7 +26,7 @@
         <mark key="'" line="6" column="5" />
         <mark key="[" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1576318546827">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1576326931293">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
@@ -72,10 +72,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574088224838">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1576321291287">
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="3" column="68" />
-        <mark key="." line="3" column="68" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/user_test.rb" timestamp="1576327317058">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="4" column="68" />
+        <mark key="." line="4" column="68" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/helpers/sessions_helper_test.rb" timestamp="1573913836058">
         <mark key="[" line="0" column="19" />
