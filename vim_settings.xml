@@ -22,9 +22,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574069041208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1576318217387">
-        <mark key="'" line="6" column="5" />
-        <mark key="[" line="4" column="26" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1577373216368">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1576326931293">
         <mark key="[" line="1" column="0" />
@@ -198,7 +198,6 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/edit.html.erb" timestamp="1576300379119" />
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/microposts/_micropost.html.erb" timestamp="1576321552249">
         <mark key="[" line="5" column="0" />
       </file>
@@ -252,6 +251,7 @@
       <jump line="7" column="32" filename="$USER_HOME$/Ruby/project/sample_app/db/seeds.rb" />
       <jump line="2" column="2" filename="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" />
       <jump line="6" column="5" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
+      <jump line="29" column="2" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -261,7 +261,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
+        <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>ay,</text>
@@ -305,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaWNyb3Bvc3RcPg==</last-search>
+      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWNyb3Bvc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -315,6 +315,7 @@
       <history-search>
         <entry encoding="base64">XDxiZWZvcmVfc2F2ZVw+</entry>
         <entry encoding="base64">XDxtaWNyb3Bvc3RcPg==</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
