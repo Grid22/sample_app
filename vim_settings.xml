@@ -22,9 +22,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574069041208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1577373216368">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="29" column="1" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1578038222330">
+        <mark key="'" line="7" column="5" />
+        <mark key="[" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1576326931293">
         <mark key="[" line="1" column="0" />
@@ -46,7 +46,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/mailers/user_mailer.rb" timestamp="1576258907150">
         <mark key="[" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191214060620_create_microposts.rb" timestamp="1576304059708">
+      <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191214060620_create_microposts.rb" timestamp="1578038168552">
         <mark key="[" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
@@ -156,7 +156,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/password_resets_test.rb" timestamp="1576301883994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571774418504">
+      <file name="/Dummy.txt" timestamp="1578037678779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/models/micropost.rb" timestamp="1576318124293">
@@ -252,6 +252,7 @@
       <jump line="2" column="2" filename="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" />
       <jump line="6" column="5" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
       <jump line="29" column="2" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
+      <jump line="7" column="5" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -261,7 +262,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0XD4=</text>
+        <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
       </register>
       <register name="0" type="4">
         <text>ay,</text>
@@ -305,17 +306,17 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxtaWNyb3Bvc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtaWNyb3Bvc3RcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxiZWZvcmVfc2F2ZVw+</entry>
-        <entry encoding="base64">XDxtaWNyb3Bvc3RcPg==</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxtaWNyb3Bvc3RcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
