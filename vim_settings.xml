@@ -54,8 +54,8 @@
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1576324223570">
-        <mark key="[" line="183" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/stylesheets/custom.css.scss" timestamp="1578303546997">
+        <mark key="[" line="191" column="4" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/helpers/application_helper.rb" timestamp="1570902283792">
         <mark key="[" line="0" column="23" />
@@ -206,9 +206,9 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/microposts/_micropost.html.erb" timestamp="1578299032216">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1576318142759">
         <mark key="'" line="5" column="2" />
