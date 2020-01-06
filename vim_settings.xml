@@ -175,8 +175,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/show.html.erb" timestamp="1576321967231">
-        <mark key="[" line="9" column="9" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/show.html.erb" timestamp="1578298296755">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/application_controller.rb" timestamp="1573480396030">
         <mark key="[" line="3" column="38" />
@@ -203,8 +205,10 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/microposts/_micropost.html.erb" timestamp="1576321552249">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/microposts/_micropost.html.erb" timestamp="1578299032216">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1576318142759">
         <mark key="'" line="5" column="2" />
@@ -261,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCUgMzAudGltZXMgZG8gfG58ICU+CiAgbWljcm9wb3N0XzwlPSBuICU+OiB7CiAgICBjb250ZW50OiA8JT0gRmFrZXI6OkxvcmVtLnNlbnRlbmNlKDUpICU+LAogICAgY3JlYXRlZF9hdDogPCU9IDQyLmRheXMuYWdvICU+LAogICAgdXNlcjogbWljaGFlbH0KPCUgZW5kICU+</text>
+        <text>hr noshade size=&quot;10&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>hr noshade size=&quot;10&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
