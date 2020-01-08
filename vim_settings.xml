@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/assets/javascripts/application.js" timestamp="1573662205167">
         <mark key="[" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/new.html.erb" timestamp="1574012265124">
-        <mark key="[" line="4" column="32" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/new.html.erb" timestamp="1578480117977">
+        <mark key="[" line="5" column="42" />
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
       </file>
@@ -26,8 +26,10 @@
         <mark key="'" line="8" column="5" />
         <mark key="[" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1578044067966">
-        <mark key="[" line="0" column="6" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1578478465428">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Guardfile" timestamp="1570818337387">
         <mark key="[" line="42" column="0" />
@@ -40,8 +42,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191118143035_add_admin_to_users.rb" timestamp="1574087578544">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1571826891476">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/static_pages_controller.rb" timestamp="1578479515851">
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/mailers/user_mailer.rb" timestamp="1576258907150">
         <mark key="[" line="7" column="19" />
@@ -49,8 +51,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191214060620_create_microposts.rb" timestamp="1578038168552">
         <mark key="[" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/microposts_controller.rb" timestamp="1578477125926">
-        <mark key="[" line="0" column="49" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/microposts_controller.rb" timestamp="1578478783796">
+        <mark key="[" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
         <mark key="[" line="25" column="26" />
@@ -158,7 +160,7 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yaml" timestamp="1578307901414">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yaml" timestamp="1578477860533">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
@@ -191,8 +193,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/application_controller.rb" timestamp="1578474737103">
         <mark key="[" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/edit.html.erb" timestamp="1574008199948">
-        <mark key="[" line="25" column="68" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/edit.html.erb" timestamp="1578480125856">
+        <mark key="[" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/mailers/user_mailer_test.rb" timestamp="1576252724005">
         <mark key="[" line="15" column="0" />
@@ -213,20 +215,15 @@
       <file name="$USER_HOME$/Ruby/project/toy_app/app/models/user.rb" timestamp="1570772262498">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/edit.html.erb" timestamp="1578480172849">
+        <mark key="[" line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/microposts/_micropost.html.erb" timestamp="1578299032216">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1576318142759">
-        <mark key="'" line="5" column="2" />
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="80" column="6" />
-        <mark key="." line="80" column="6" />
-      </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1571843315149">
-        <mark key="[" line="7" column="32" />
-      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/views/static_pages/home.html.erb" timestamp="1578479220602" />
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/site_layout_test.rb" timestamp="1571843472943">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="2" />
@@ -249,12 +246,6 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/config/environments/test.rb" timestamp="1575368263275">
         <mark key="[" line="31" column="45" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/db/seeds.rb" timestamp="1576323666493">
-        <mark key="'" line="7" column="32" />
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/README.md" timestamp="1570775816197">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -273,7 +264,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MicropostsC</text>
+        <text encoding="base64">dGF1X21hbmlmZXN0bzogewogIGNvbnRlbnQ6ICJDaGVjayBvdXQgdGhlIEB0YXVkYXkgc2l0ZSBieSBAbWhhcnRsOiBodHRwOi8vdGF1ZGF5LmNvbSIsCiAgY3JlYXRlZF9hdDogPCU9IDMueWVhcnMuYWdvICU+LAogIHVzZXI6IG1pY2hhZWwgfQoKY2F0X3ZpZGVvOiB7CiAgY29udGVudDogIlNhZCBjYXRzIGFyZSBzYWQ6IGh0dHA6Ly95b3V0dS5iZS9QS2ZmbTJ1STRkayIsCiAgY3JlYXRlZF9hdDogPCU9IDIuaG91cnMuYWdvICU+LAogIHVzZXI6IG1pY2hhZWwgfQoKbW9zdF9yZWNlbnQ6IHsKICBjb250ZW50OiAiV3JpdGluZyBhIHNob3J0IHRlc3QiLAogIGNyZWF0ZWRfYXQ6IDwlPSBUaW1lLnpvbmUubm93ICU+LAogIHVzZXI6IG1pY2hhZWwgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>MicropostsC</text>
@@ -285,16 +276,19 @@
         <text>ay,</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PCUgMzAudGltZXMgZG8gfG58ICU+CiAgbWljcm9wb3N0XzwlPSBuICU+OiB7CiAgICBjb250ZW50OiA8JT0gRmFrZXI6OkxvcmVtLnNlbnRlbmNlKDUpICU+LAogICAgY3JlYXRlZF9hdDogPCU9IDQyLmRheXMuYWdvICU+LAogICAgdXNlcjogbWljaGFlbH0KPCUgZW5kICU+</text>
+        <text encoding="base64">dGF1X21hbmlmZXN0bzogewogIGNvbnRlbnQ6ICJDaGVjayBvdXQgdGhlIEB0YXVkYXkgc2l0ZSBieSBAbWhhcnRsOiBodHRwOi8vdGF1ZGF5LmNvbSIsCiAgY3JlYXRlZF9hdDogPCU9IDMueWVhcnMuYWdvICU+LAogIHVzZXI6IG1pY2hhZWwgfQoKY2F0X3ZpZGVvOiB7CiAgY29udGVudDogIlNhZCBjYXRzIGFyZSBzYWQ6IGh0dHA6Ly95b3V0dS5iZS9QS2ZmbTJ1STRkayIsCiAgY3JlYXRlZF9hdDogPCU9IDIuaG91cnMuYWdvICU+LAogIHVzZXI6IG1pY2hhZWwgfQoKbW9zdF9yZWNlbnQ6IHsKICBjb250ZW50OiAiV3JpdGluZyBhIHNob3J0IHRlc3QiLAogIGNyZWF0ZWRfYXQ6IDwlPSBUaW1lLnpvbmUubm93ICU+LAogIHVzZXI6IG1pY2hhZWwgfQ==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICMgdGVzdCAidGhlIHRydXRoIiBkbwogICMgICBhc3NlcnQgdHJ1ZQogICMgZW5k</text>
+        <text encoding="base64">PCUgMzAudGltZXMgZG8gfG58ICU+CiAgbWljcm9wb3N0XzwlPSBuICU+OiB7CiAgICBjb250ZW50OiA8JT0gRmFrZXI6OkxvcmVtLnNlbnRlbmNlKDUpICU+LAogICAgY3JlYXRlZF9hdDogPCU9IDQyLmRheXMuYWdvICU+LAogICAgdXNlcjogbWljaGFlbH0KPCUgZW5kICU+</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICMgdGVzdCAidGhlIHRydXRoIiBkbwogICMgICBhc3NlcnQgdHJ1ZQogICMgZW5k</text>
+      </register>
+      <register name="4" type="4">
         <text># assert_template 'users/show'
    # assert is_logged_</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>test &quot;password_reset&quot; do
     mail = UserMailer.password_reset
     assert_equal &quot;Password reset&quot;, mail.subject
@@ -303,23 +297,20 @@
     assert_match &quot;Hi&quot;, mail.body.encoded
   end</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PCUgcHJvdmlkZSg6dGl0bGUsICdBbGwgdXNlcnMnKSAlPgo8aDE+QWxsIHVzZXJzPC9oMT4KCjwlPSB3aWxsX3BhZ2luYXRlICU+Cgo8dWwgY2xhc3M9InVzZXJzIj4KICA8JT0gcmVuZGVyIEB1c2VycyAlPgo8L3VsPgoKPCU9IHdpbGxfcGFnaW5hdGUgJT4=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>, password: &quot;foobar&quot;,
                      password_confirmation: &quot;foobar&quot;)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Cm9uZToKICBuYW1lOiBNeVN0cmluZwogIGVtYWlsOiBNeVN0cmluZwoKdHdvOgogIG5hbWU6IE15U3RyaW5nCiAgZW1haWw6IE15U3RyaW5n</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text># test &quot;the truth&quot; do
   #   assert true
   # end</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICA8JT0geWllbGQgJT4KICA8L2Rpdj4=</text>
       </register>
     </registers>
     <search>
