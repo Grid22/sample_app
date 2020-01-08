@@ -49,7 +49,7 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191214060620_create_microposts.rb" timestamp="1578038168552">
         <mark key="[" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/microposts_controller.rb" timestamp="1578474846239">
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/microposts_controller.rb" timestamp="1578477125926">
         <mark key="[" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
@@ -99,10 +99,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1578475241478">
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="2" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1578476692576">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/new.html.erb" timestamp="1575909388458">
         <mark key="[" line="7" column="57" />
@@ -112,7 +112,7 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/microposts_controller_test.rb" timestamp="1578475259350">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/microposts_controller_test.rb" timestamp="1578477139718">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
@@ -273,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:microposts,</text>
+        <text>MicropostsC</text>
       </register>
       <register name="-" type="4">
-        <text>:microposts,</text>
+        <text>MicropostsC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
