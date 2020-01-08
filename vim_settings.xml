@@ -49,6 +49,9 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191214060620_create_microposts.rb" timestamp="1578038168552">
         <mark key="[" line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/microposts_controller.rb" timestamp="1578474846239">
+        <mark key="[" line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/Gemfile" timestamp="1574071138598">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="3" column="18" />
@@ -96,8 +99,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1575800758613">
-        <mark key="[" line="19" column="46" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1578475241478">
+        <mark key="[" line="20" column="70" />
         <mark key="]" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
@@ -108,6 +111,11 @@
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/microposts_controller_test.rb" timestamp="1578475259350">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/sessions_controller.rb" timestamp="1575799174743">
         <mark key="[" line="7" column="6" />
@@ -180,8 +188,8 @@
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/application_controller.rb" timestamp="1573480396030">
-        <mark key="[" line="3" column="38" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/controllers/application_controller.rb" timestamp="1578474737103">
+        <mark key="[" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/edit.html.erb" timestamp="1574008199948">
         <mark key="[" line="25" column="68" />
@@ -265,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:microposts,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:microposts,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
