@@ -230,6 +230,9 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/app/models/user.rb" timestamp="1579600522835">
+        <mark key="[" line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/site_layout_test.rb" timestamp="1571843472943">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="2" />
