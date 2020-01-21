@@ -22,9 +22,12 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_edit_test.rb" timestamp="1574069041208">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1578307991606">
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" timestamp="1579598705308">
         <mark key="'" line="8" column="5" />
-        <mark key="[" line="2" column="44" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/test/fixtures/microposts.yml" timestamp="1578478465428">
         <mark key="[" line="5" column="0" />
@@ -74,6 +77,10 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/db/migrate/20191124031754_add_activation_to_users.rb" timestamp="1574566000278">
         <mark key="[" line="3" column="39" />
       </file>
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/integration/users_profile_test.rb" timestamp="1579599342136">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/users/_user.html.erb" timestamp="1574088224838">
         <mark key="[" line="2" column="31" />
       </file>
@@ -114,8 +121,8 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/microposts_controller_test.rb" timestamp="1578477139718">
-        <mark key="[" line="5" column="17" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/test/controllers/microposts_controller_test.rb" timestamp="1579599096822">
+        <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
@@ -260,6 +267,8 @@
       <jump line="6" column="5" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
       <jump line="29" column="2" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
       <jump line="7" column="5" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
+      <jump line="8" column="5" filename="$USER_HOME$/Ruby/project/sample_app/test/models/micropost_test.rb" />
+      <jump line="9" column="2" filename="$USER_HOME$/Ruby/project/sample_app/test/integration/users_profile_test.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -269,7 +278,7 @@
         <text>MicropostsC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWNyb3Bvc3RcPg==</text>
+        <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>ay,</text>
@@ -313,17 +322,17 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaWNyb3Bvc3RcPg==</last-search>
+      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWNyb3Bvc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxiZWZvcmVfc2F2ZVw+</entry>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxtaWNyb3Bvc3RcPg==</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -344,6 +353,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
