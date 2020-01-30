@@ -112,10 +112,8 @@
       <file name="$USER_HOME$/Ruby/project/sample_app/.gitignore" timestamp="1570818645990">
         <mark key="[" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1578476692576">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Ruby/project/sample_app/config/routes.rb" timestamp="1580384549042">
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Ruby/project/sample_app/app/views/password_resets/new.html.erb" timestamp="1575909388458">
         <mark key="[" line="7" column="57" />
